@@ -1,0 +1,7 @@
+{
+  "name": "loginnn",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
